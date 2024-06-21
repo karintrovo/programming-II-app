@@ -18,7 +18,7 @@ The Senate Voting App provides a secure and transparent platform for Senate memb
 
 
 ## Installation
-Please dowload the app from the following [link]([https://pages.github.com/](https://filippo-luigi-mazzesis-team.adalo.com/aaa)
+Please dowload the app from the following [link](https://filippo-luigi-mazzesis-team.adalo.com/aaa)
 
 To test the app you should use the following credentials:
 {
